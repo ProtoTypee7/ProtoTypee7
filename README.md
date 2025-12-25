@@ -1,6 +1,7 @@
 <div align="center">
-  <img height="200" src="https://cdn.discordapp.com/attachments/1429869825538129930/1453881746339790959/dp2kuk914o9y_gif_1731560.gif?ex=694f1064&is=694dbee4&hm=5e0ce909534990054e9e02fc554cb2c9b41447718867998c2e84212311b9e63b&"  />
+  <img height="200" src="https://raw.githubusercontent.com/ProtoTypee7/ProtoTypee7/main/dp2kuk914o9y_gif%20(1731%C3%97560).gif" />
 </div>
+
 
 ###
 
